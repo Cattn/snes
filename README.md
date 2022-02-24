@@ -1,2 +1,2 @@
 # SNES
-SNES emulator, hosted by NeptunJS, provided in a format on this website for easy access by me. Also proxied as test.
+SNES Emulators, hosted via the web browser. For use at school, and at home. This page is currently testing the capabilities of it and if it works via web proxy.
